@@ -18,7 +18,7 @@ Otherwise, content is MIT Licensed (where applicable)
 
 ## About Me
 
-:scales: Find me in [LinkedIn](http://linkedin.com/in/nadinenavarro)
+:+1: Find me in [LinkedIn](http://linkedin.com/in/nadinenavarro)
 
 ## Maintainer/Developer
 
