@@ -1,4 +1,5 @@
-# Navarro Immigration blog ::briefcase::
+# Navarro Immigration blog :briefcase:
+
 
 This is where I keep my personal blog about Immigration in the United States. 
 
@@ -11,7 +12,7 @@ posts/
 blogs/
 ```
 
-These folders contains copyrighted posts authored by Nadine Navarro ::copyright::.
+These folders contains copyrighted posts authored by Nadine Navarro :copyright:
 
 Otherwise, content is MIT Licensed (where applicable)
 
