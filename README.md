@@ -22,4 +22,4 @@ Otherwise, content is MIT Licensed (where applicable)
 
 ## Maintainer/Developer
 
-:nerd: [@jmugz3](http://twitter.com/jmugz3)
+:computer: [@jmugz3](http://twitter.com/jmugz3)
