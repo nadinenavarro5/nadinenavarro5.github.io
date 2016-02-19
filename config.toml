@@ -80,14 +80,14 @@ publishdir = "public"
         name = "avvo"
         link = "http://www.avvo.com/attorneys/nadine-navarro-4722436.html"
 
-	[params.form]
-		title = "Let's work together"
-		# Form fields
-		name = "Your Name"
-		email = "Your Email"
-		message = "Tell me about your immigration concerns"
-		buttonText = "Send"
+     [params.form]
+	title = "Let's work together"
+	# Form fields
+	name = "Your Name"
+	email = "Your Email"
+	message = "Tell me about your immigration concerns"
+	buttonText = "Send"
+	
 
-
-	[params.footer]
-		copyright = "Navarro Immigration"
+     [params.footer]
+	copyright = "Navarro Immigration"
